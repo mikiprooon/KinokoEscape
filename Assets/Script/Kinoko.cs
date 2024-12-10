@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Kinoko : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Kinokoの移動速度
+    public float moveSpeed = 5f; // Kinokoの移動速度だよーん
     private Rigidbody rb; // Rigidbodyの参照を保持する変数
     private Transform tf; // 回転や移動を保持する変数
 
