@@ -3944,7 +3944,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Escape from the \"Takenoko Maze\"!\nEnter the glowing wall to succeed,
     \nbut if you get caught by Takenokos, you fail!\nKinoko rotate with the \"A\"
-    and \"S\" keys, \nand move t with the \"allow\" keys!"
+    and \"S\" keys, \nand move with the \"arrow\" keys!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
